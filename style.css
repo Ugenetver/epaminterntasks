@@ -4,6 +4,7 @@ p {
 }
 #first-paragraph {
     color: red;
+    font-size: 64px;
 }
 #second {
     font-weight: bold;
